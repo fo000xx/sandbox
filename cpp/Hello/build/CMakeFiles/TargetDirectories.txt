@@ -1,3 +1,0 @@
-/home/befo/~dev/sandbox/build/CMakeFiles/HelloWorld.dir
-/home/befo/~dev/sandbox/build/CMakeFiles/edit_cache.dir
-/home/befo/~dev/sandbox/build/CMakeFiles/rebuild_cache.dir
